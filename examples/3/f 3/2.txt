@@ -1,0 +1,4 @@
+2.txt
+require '11.txt'
+require 'f1/f2/11.txt'
+require 'f1/f2/11.txt'

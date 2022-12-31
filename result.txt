@@ -1,0 +1,26 @@
+3.txt
+        require 'lala' 'lalala'                  
+require 'lalala.txt'
+5.txt
+7.txt
+fkak;ldkfl;asdkf require 7.txt ' '
+require 'lalala.txt'
+8.txt
+REQUIRE 11.txt
+require '7.txt'
+require '3.txt'
+11.txt
+require '7.txt'
+require 'f1/5.txt'
+9.txt
+require 'f1/f2/11.txt'
+require   'f1/f2/10.txt'
+require 'f1/8.txt'
+10.txt
+require '11.txt'
+require 'f1/f2/11.txt'
+require '3.txt'
+2.txt
+require '11.txt'
+require 'f1/f2/11.txt'
+require 'f1/f2/11.txt'
